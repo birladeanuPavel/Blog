@@ -61,5 +61,8 @@ public class Comment implements Serializable {
     public void setEntry(Entry entry) {
         this.entry = entry;
     }
+
+    
+    // comment
 }
 
